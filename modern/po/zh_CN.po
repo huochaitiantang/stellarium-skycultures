@@ -1351,13 +1351,13 @@ msgid "Almalaf"
 msgstr "积尸增二 Almalaf"
 
 msgid "Zubanah"
-msgstr "轩辕增廿二 Zubanah"
+msgstr "轩辕增二十二 Zubanah"
 
 msgid "Piautos"
 msgstr "爟二 Piautos"
 
 msgid "Nahn"
-msgstr "轩辕增廿四 Nahn"
+msgstr "轩辕增二十四 Nahn"
 
 msgid "Cor Caroli"
 msgstr "常陈一 Cor Caroli"
@@ -1465,7 +1465,7 @@ msgid "Al Giedi Prima"
 msgstr "Al Giedi Prima"
 
 msgid "Algedi"
-msgstr "牛宿二和牛宿增六（摩羯座α1和α2）"
+msgstr "牛宿二（摩羯座α2）"
 
 msgid "Secunda Giedi"
 msgstr "Secunda Giedi"
@@ -1960,7 +1960,7 @@ msgid "Rucba"
 msgstr "Rucba"
 
 msgid "Bessel's Star"
-msgstr "天津增廿九 Bessel's Star"
+msgstr "天津增二十九 Bessel's Star"
 
 msgid "Piazzi's Flying Star"
 msgstr "皮亚齐飞行之星 Piazzi's Flying Star"
@@ -2570,7 +2570,7 @@ msgid "Zubenelgenubi I"
 msgstr "氐宿增七 Zubenelgenubi I"
 
 msgid "Zubenelgenubi"
-msgstr "氐宿一和氐宿增七（天秤座α）"
+msgstr "氐宿一"
 
 msgid "Zuben el Genubi"
 msgstr "Zuben el Genubi"
@@ -3053,7 +3053,7 @@ msgid "Fum al Hui"
 msgstr "败臼增一 Fum al Hui"
 
 msgid "Naos"
-msgstr "弧矢增廿二 Naos"
+msgstr "弧矢增二十二 Naos"
 
 msgid "Suhail Hadar"
 msgstr "Suhail Hadar"
@@ -3311,13 +3311,13 @@ msgid "Unuk Elhaia"
 msgstr "Unuk Elhaia"
 
 msgid "Alya"
-msgstr " 天市左垣七 徐 Alya"
+msgstr "天市左垣七 徐 Alya"
 
 msgid "Chow"
 msgstr "天市右垣五 周 Chow"
 
 msgid "Nasak Shamiya I"
-msgstr "Nasak Shamiya I"
+msgstr "天市右垣五 周"
 
 msgid "Nasak Shamiya II"
 msgstr "天市右垣四 郑 Nasak Shamiya II"
